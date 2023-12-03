@@ -1,4 +1,4 @@
-# FoodRecognitionChallenge
+# Food Recognition Challenge
 1st place solution for rounds one to three of the Food Recognition Challenge by Seerave Foundation on AICrowd.
 
 ![Challenge Image](./images/sample_annotation.PNG)
